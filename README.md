@@ -39,7 +39,7 @@ The above features of the customer can be explained from the aspects of financia
 - Dropping unnecessary columns can reduce complexity of a model
 - Through resampling of the highly imbalanced data, the performance metrics of models increase
 - Random Forest can handle non-linear relationships between features effectively while minimising the risk of overfitting
-- Surprisingly, the performance metrics of XGBoost is the poorest even after tuning because the imbalanced dataset could be posing challenges or the hyperparameters used might not be the best.
+- The F1 score of XGBoost is low because the model struggles in classifying the positive and negative instances due to the imbalanced dataset or the hyperparameters used might not be the best.
 - The top 4 features obtained from Logistic Regression is different compared to that of Random Forest and XGBoost because Logistic regression assesses feature importance based on the magnitude of coefficients assigned to each variable which may overlook complex nonlinear patterns.
 - The next marketing campaign can focus on potential customers that work as blue collars, married, have house loan and have personal loan to increase the likelihood of suscribing to a term deposit.
 
