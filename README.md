@@ -15,8 +15,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - We aim to analyze the factors influencing customers' decisions to subscribe to term deposits, as well as to predict customer behaviour in future similar marketing campaigns.
 
 ## Problem Statement
-What are the characteristics of the potential customers that would likely to make a term deposit?
-
+- What are the characteristics of the potential customers that would likely to make a term deposit?
+- Which machine learning model has the best performance?
+  
 ## Dataset
 We are using the [Bank Target Marketing](https://www.kaggle.com/datasets/seanangelonathanael/bank-target-marketing/data) from kaggle. This dataset contains various attributes related to customer demographics, their previous interactions with the bank, and the outcomes of the marketing campaign conducted.
   
