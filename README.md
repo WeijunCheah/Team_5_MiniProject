@@ -27,6 +27,7 @@ Significant key features identified by the models
 - married
 - have house loan
 - have personal loan
+  
 The above features of the customer can be explained from the aspects of financial stability, risk aversion, long-term planning and stability in life-stage.
 
 ## Conclusion
