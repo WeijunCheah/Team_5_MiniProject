@@ -43,12 +43,13 @@ The above features of the customer can be explained from the aspects of financia
 
 ## What did we learn from this project
 - Handling imbalanced data using SMOTE method
+- Tuning of the hyperparameters to improve the model's performance
 - Concepts about F1 score, Accuracy and AUC score
-- Application of different models in solving binary classification problems
+- Application of different models such as Logistic Regression, Random Forest and XGBoost in solving binary classification problems
 - How to collaborate on a project using Github
 - Decomposition of problems into smaller components
 
 ## Contributors
-- @WeijunCheah
-- @Tingfeng03
+- @WeijunCheah - Data Cleaning, EDA, XGBoost, Conclusion
+- @Tingfeng03 - Data Cleaning, Logistic Regression, Random Forest
 
