@@ -39,6 +39,7 @@ The above features of the customer can be explained from the aspects of financia
 - Dropping unnecessary columns can reduce complexity of a model
 - Through resampling of the highly imbalanced data, the performance metrics of models increase
 - Random Forest can handle non-linear relationships between features effectively while minimising the risk of overfitting
+- Surprisingly, the performance of XGBoost is poorer than that of XGBoost because 
 - The next marketing campaign can focus on potential customers that work as blue collars, married, have house loan and have personal loan to increase the likelihood of suscribing to a term deposit.
 
 ## What did we learn from this project
@@ -52,4 +53,6 @@ The above features of the customer can be explained from the aspects of financia
 ## Contributors
 - @WeijunCheah - Data Cleaning, EDA, XGBoost, Conclusion
 - @Tingfeng03 - Data Cleaning, Logistic Regression, Random Forest
+
+## References
 
