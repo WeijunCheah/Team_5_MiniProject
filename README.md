@@ -8,6 +8,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. [Random Forest and Logistic Regression](https://github.com/WeijunCheah/MiniProject/blob/main/3.%20RF_LogR.ipynb)
 4. [XGBoost](https://github.com/WeijunCheah/MiniProject/blob/main/4.%20XGBoost.ipynb)
 5. [Detailed Conclusion](https://github.com/WeijunCheah/MiniProject/blob/main/5.%20Comparison%20%26%20Conclusion.ipynb)
+6. [Dataset Used](https://github.com/WeijunCheah/MiniProject/tree/086f9332496ed2a62206ed4b46bc9341e468c9b3/CSV%20Dataset)
 
 ## Description
 - The amount of budget bank companies spend on their marketing campaign increases every year, hence we would like to make use of the budget effectively.
