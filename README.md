@@ -13,7 +13,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Description
 - The amount of budget bank companies spend on their marketing campaign increases every year, hence we would like to make use of the budget effectively.
 - Increase the effectiveness of the Bank Marketing Campaign by focusing on target clients to avoid unecessary spending.
-- We aim to analyze the festures of customers that subscribe to term deposits, as well as to predict whether a customer would made a deposit in future similar marketing campaigns by looking at their demographics.
+- We aim to analyze the common features of customers that subscribe to term deposits, as well as to predict whether a customer would made a deposit in future similar marketing campaigns by looking at their demographics.
 
 ## Problem Statement
 - What are the characteristics of the potential customers that would likely to make a term deposit?
@@ -57,4 +57,4 @@ The above features of the customer can be explained from the aspects of financia
 - @Tingfeng03 - Data Cleaning, Logistic Regression, Random Forest
 
 ## References
-
+- (https://www.datacamp.com/tutorial/xgboost-in-python)
