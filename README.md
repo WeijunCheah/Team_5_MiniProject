@@ -57,4 +57,10 @@ The above features of the customer can be explained from the aspects of financia
 - @Tingfeng03 - Data Cleaning, Logistic Regression, Random Forest
 
 ## References
-- (https://www.datacamp.com/tutorial/xgboost-in-python)
+- https://www.nickmccullum.com/python-machine-learning/logistic-regression-python/
+- https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+- https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+- https://www.statology.org/random-forest-in-r/
+- https://www.datacamp.com/tutorial/random-forests-classifier-python
+- https://www.datacamp.com/tutorial/xgboost-in-python
+- https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/
